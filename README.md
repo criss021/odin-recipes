@@ -1,1 +1,1 @@
-# odin-recipes
+This will be my first odin project and it will be a basic recipe website to test out everything I have learned so far HTML related.
