@@ -1,0 +1,33 @@
+body {
+    background-color: lightseagreen;
+    font-size: 50px;
+    font-family:monospace;
+    
+}
+
+h1 {
+    color: black;
+    background-color: cyan;
+    text-align: center;
+    font-weight: bold; 
+}
+
+ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style-position: inside;
+    padding: 0;
+    margin: 0;
+    flex-direction: column;
+}
+
+.list-item {
+    color: pink;
+    text-align: left;
+    line-height: 1.5;
+}
+
+.list-item a:hover {
+    color: #0073e6; 
+  }
